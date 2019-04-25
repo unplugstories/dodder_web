@@ -1,0 +1,3 @@
+/home/vp/Desktop/pointCloud/3DReconstructionFromMultipleImages/testt/build/CMakeFiles/edit_cache.dir
+/home/vp/Desktop/pointCloud/3DReconstructionFromMultipleImages/testt/build/CMakeFiles/rebuild_cache.dir
+/home/vp/Desktop/pointCloud/3DReconstructionFromMultipleImages/testt/build/CMakeFiles/indexer.dir
