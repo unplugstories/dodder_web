@@ -1,0 +1,56 @@
+
+h3{
+    margin-left: 15px
+}
+  
+
+input[type="file"] {
+    display: none;
+}
+.buttonlabel{
+    padding: 10px;
+    background: blue; 
+    display: table;
+    color: #fff;
+     }
+
+.fileInput{
+   
+    padding: 10px;
+    margin: 15px;
+    
+}
+
+Image{
+
+    
+    overflow:hidden;
+}
+  
+    
+  
+.previewText{
+    width: 100%;
+    margin-top: 20px;
+}
+  
+  
+.submitButton{
+    padding: 12px;
+    margin-left: 10px;
+    background: white;
+    border: 4px solid lightgray;
+    border-radius: 15px;
+    font-weight: 700;
+    font-size: 10pt;
+    cursor: pointer
+
+    
+
+}
+
+.centerText{
+    text-align: center;
+    width: 500px;
+}
+  
