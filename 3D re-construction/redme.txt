@@ -1,3 +1,0 @@
-to run 
-1 ./indexer 
-2 press enter
